@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eledwinn/vue-editable-grid.git"
+    "url": "git+https://github.com/SomeOneWrite/vue-editable-grid.git"
   },
   "main": "./dist/VueEditableGrid.common.js",
   "scripts": {
