@@ -31,6 +31,7 @@ td.cell.noselect(
       @keyup.esc='editCancelled',
       @focus='editPending = true'
       @blur='leaved'
+      multiple
       )
         option(v-for="(option, index) in column.selectOptions" :key='index' :value="option.value") {{option.text}}
     input(
